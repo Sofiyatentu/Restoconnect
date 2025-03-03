@@ -1,0 +1,24 @@
+{
+  "name": "restoconnect",
+  "version": "1.0.0",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofiyatentu/Restoconnect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofiyatentu/Restoconnect/issues"
+  },
+  "homepage": "https://github.com/Sofiyatentu/Restoconnect#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
